@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently a senior student specializing in Data Science.
-- 🌱 I’m currently learning AI, DL, ML.
-- 🔎 I’m looking for CO-OP or internship opportunities in my field 
+- 🌱 I’m currently learning AI & ML/DL Model Deployment as web application.
+- 🔎 I’m looking for intership opportunities in my field.
 - 💬 Ask me about Data Science. 
 - 📫 How to reach me:
-R01alobaidi@gmail.com
+  https://rhali.erbut.me/
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhali-01" />
