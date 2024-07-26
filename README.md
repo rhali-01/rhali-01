@@ -2,11 +2,10 @@
 
 
 - 🔭 I’m currently a senior student specializing in Data Science.
-- 🌱 I’m currently learning AI & ML/DL Model Deployment as web application.
-- 🔎 I’m looking for intership opportunities in my field.
+- 🌱 I’m currently learning ML/DL Model Deployment.
+- 🔎 I’m looking for A job in data industry.
 - 💬 Ask me about Data Science. 
-- 📫 How to reach me:
-  https://rhali.erbut.me/
+- 📫 Reach me via: https://www.linkedin.com/in/rahafalobaidi/
 
 
 <!--
