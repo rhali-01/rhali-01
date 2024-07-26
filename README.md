@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently a senior student specializing in Data Science.
+- 🔭 I’m a fresh Data Science graduate from University of Jeddah.
 - 🌱 I’m currently learning ML/DL Model Deployment.
-- 🔎 I’m looking for A job in data industry.
+- 🔎 I’m looking for a job in the data science field.
 - 💬 Ask me about Data Science. 
 - 📫 Reach me via: https://www.linkedin.com/in/rahafalobaidi/
 
